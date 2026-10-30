@@ -222,8 +222,8 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  JAVA_VERSION: '17'
-  JDK_VERSION: '1.17'
+  JAVA_VERSION: '21'
+  JDK_VERSION: '1.21'
   WEB_APP_NAME: 'app-clyvo-rm563000'
   ARTIFACT_NAME: 'app'
   TEST_RUN_TITLE: 'Testes de Codigo'
