@@ -422,7 +422,7 @@ az group delete --name $RESOURCE_GROUP_NAME --yes --no-wait
 
 ## Link do vídeo no YouTube
 
-(adicionar o link)
+https://www.youtube.com/watch?v=aW0b567Lblo
 
 ## Integrantes
 
